@@ -35,4 +35,4 @@ Calculated for distances from 10 km to 100 km.
 - EV adoption awareness
 - Portfolio and interview discussions for data analyst roles in the energy or automotive domain
 
-Updated Documentation
+Updated Documentation.
